@@ -51,8 +51,8 @@ python
 >>> from realseries.models.iforest import IForest
 ```
 
->[!WARNING]
-> RealSeries supports Python3 (=3.7.11) **ONLY**.
+> :warning: RealSeries supports Python3 (=3.7.11) **ONLY**.
+
 
 ### Dependencies
 Realseries has several deep learning models like sr_cnn, lstm_encoder_decoder,
@@ -79,8 +79,7 @@ Realseries has several deep learning models like sr_cnn, lstm_encoder_decoder,
 
 #### Optional Dependencies:
 
->[!WARNING]
-> We do **NOT** install all dependencies for you. Instead you should install dependencies by yourself for any models you want.
+> :warning: We do **NOT** install all dependencies for you. Instead you should install dependencies by yourself for any models you want.
 
 * pytorch (required for LSTM_AutoEncoder)
 * rrcf>=0.3.2 (required for Random cut forest)
