@@ -89,8 +89,8 @@ Realseries has several deep learning models like sr_cnn, lstm_encoder_decoder,
 ## Documentation
 * [Tutorials and API Docs](https://realseries.readthedocs.io/) 
 * [Tutorials and API Docs Source Code](docs/) (Need to build with [Sphinx](https://www.sphinx-doc.org/en/master/))
-* [Gitlab Jupyter Notebooks](notebooks/)
-* [Gitlab Python Examples](examples/)
+* [Jupyter Notebooks](notebooks/)
+* [Python Examples](examples/)
 
 ## Contribution and Contact
 * The core development members include
