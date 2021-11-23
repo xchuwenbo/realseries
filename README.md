@@ -101,6 +101,7 @@ Realseries has several deep learning models like sr_cnn, lstm_encoder_decoder,
   * Xianrui Zhang
   * Wenkai Li
   * Zhiheng Zhang
+  * Peng Cui
 
 If you have any questions, please leave issues.
 
