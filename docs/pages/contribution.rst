@@ -1,6 +1,6 @@
 Contribution
 ============
-This project is headed by `Wenbo Hu <https://wbhu.net/>`_ (Senior Software Engineer, Bytedance).
+This project is headed by `Wenbo Hu <https://wbhu.net/>`_.
 
 Other core members include:
 
