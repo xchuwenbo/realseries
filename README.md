@@ -24,6 +24,9 @@ sr_cnn = SR_CNN(model_path)
 sr_cnn.fit(train_data)
 score = sr_cnn.detect(test_data, test_label)
 ```
+## Documentation
+* [Tutorials and API docs](http://realseries.readthedocs.io)
+
 ## Installation
 RealSeries is still under development. Before the first stable release (1.0), you can install the RealSeries from source.
 
