@@ -100,3 +100,12 @@ Realseries has several deep learning models like sr_cnn, lstm_encoder_decoder,
   * Zhiheng Zhang
 
 If you have any questions, please leave issues.
+
+## Acknowkledgement
+This project directly used many open-source libs:
+* pytorch,
+* luminol,
+* sklearn,
+* statsmodel.
+
+Please leave an issue or send email to [Wenbo Hu](https://ml.cs.tsinghua.edu.cn/~wenbo/) if your project wants to show in the list or does not want to be used.
