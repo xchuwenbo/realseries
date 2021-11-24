@@ -11,7 +11,7 @@
 
 **RealSeries** also considers the **icing-on-the-cake** functions, including:
 * Bayesian Time series forecast/detect to get **uncertainty**.
-* Model **interpretations** for the prediction/detection including **causality**.
+* Model **interpretations** for the prediction/detection including **Granger causality**.
 
 **API Demo**:
 
