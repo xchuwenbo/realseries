@@ -19,7 +19,7 @@ sys.path.insert(0, os.path.abspath('..'))
 # -- Project information -----------------------------------------------------
 
 project = 'RealSeries'
-copyright = '2020, Wenbo Hu'
+copyright = '2020, RealAI'
 author = 'Wenbo Hu'
 
 # The full version, including alpha/beta/rc tags
