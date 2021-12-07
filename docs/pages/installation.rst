@@ -3,11 +3,11 @@ Installation
 
 RealSeries is still under development. Before the first stable release, you can install the RealSeries from source.
 
-If you use RealSeries temporarily, you may clone the code from `GitHub repository <https://github.com/RealSeries/realseries>`_ and add it to your Python path:
+If you use RealSeries temporarily, you may clone the code from `GitHub repository <https://github.com/xchuwenbo/realseries>`_ and add it to your Python path:
 
     .. code-block:: python
 
-        git clone https://github.com/RealSeries/realseries.git
+        git clone https://github.com/xchuwenbo/realseries.git
         cd RealSeries # change current work directory to ./RealSeries
         python
         >>> import sys,os
@@ -19,7 +19,7 @@ Alternatively, you can install it:
 
     .. code-block:: python
 
-        git clone https://github.com/RealSeries/realseries.git # clone
+        git clone https://github.com/xchuwenbo/realseries.git # clone
         cd RealSeries
         pip install .
         python
