@@ -95,20 +95,24 @@ Realseries has several deep learning models like sr_cnn, lstm_encoder_decoder,
 * [Python Examples](examples/)
 
 ## Contribution and Contact
-* The core development members include
+Most of the first version is done in [RealAI](https://real-ai.cn/).
+* So far, the core development members include
   * [Wenbo Hu](https://ml.cs.tsinghua.edu.cn/~wenbo/)
   * Xianrui Zhang
   * Wenkai Li
   * Zhiheng Zhang
   * Peng Cui
+  * Shuyu Cheng
 
 If you have any questions, please leave issues.
 
-## Acknowkledgement
+## Acknowkledgements
 This project directly used many open-source libs:
 * pytorch,
 * luminol,
 * sklearn,
 * statsmodel.
+
+
 
 Please leave an issue or send email to [Wenbo Hu](https://ml.cs.tsinghua.edu.cn/~wenbo/) if your project wants to show in the list or does not want to be used.
