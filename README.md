@@ -95,7 +95,7 @@ Realseries has several deep learning models like sr_cnn, lstm_encoder_decoder,
 * [Python Examples](examples/)
 
 ## Contribution and Contact
-Most of the first version is done in [RealAI](https://real-ai.cn/).
+Most of the first version is done in [RealAI](https://real-ai.cn/) and [Tsinghua SAIL Group](https://ml.cs.tsinghua.edu.cn/).
 * So far, the core development members include
   * [Wenbo Hu](https://ml.cs.tsinghua.edu.cn/~wenbo/)
   * Xianrui Zhang
